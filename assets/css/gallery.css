@@ -1,0 +1,8 @@
+.lesson_image_too_small {
+    transition: all 450ms linear;
+}
+
+.lesson_image_too_small:hover {
+    transform: scale(3);
+    transition: all 200ms linear;
+}
